@@ -11,8 +11,8 @@ on:
     - cron: 0 8 * * 0
 
 env:
-  REPO_URL: https://github.com/coolsnowwolf/lede
-  REPO_BRANCH: master
+  REPO_URL: https://github.com/Lienol/openwrt
+  REPO_BRANCH: main
   CONFIG_FILE: .config
   SCRIPT_SH: script.sh
   CONFIG_SH: config.sh
